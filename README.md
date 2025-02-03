@@ -31,7 +31,7 @@ O **StockAnalyzer** é uma ferramenta desenvolvida em Python para obter e analis
    ```
 4. Execute o script:
    ```sh
-   python stock_analyzer.py
+   python main.py
    ```
 
 ## Observação
