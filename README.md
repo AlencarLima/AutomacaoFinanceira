@@ -18,8 +18,8 @@ O **StockAnalyzer** é uma ferramenta desenvolvida em Python para obter e analis
 ## Como Usar
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/StockAnalyzer.git
-   cd StockAnalyzer
+   git clone https://github.com/seu-usuario/AutomacaoFinanceira.git
+   cd AutomacaoFinanceira
    ```
 2. Instale as dependências:
    ```sh
